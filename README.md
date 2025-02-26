@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about something cool
 - 📫 How to reach me: something cool
 - 😄 Pronouns: something cool
-- ⚡ Fun fact: something cool
+- ⚡ Fun fact: something cool again?
 -->
