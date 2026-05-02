@@ -1,6 +1,7 @@
 ## Methru Bandara 👋
 
 {\
+&ensp;"incoming": "Full Stack SWE Co-op @ MORSE Corp",
 &ensp;"current": "Co-Founder & Technical Lead @ Spendvia",\
 &ensp;"previously": "Web Developer @ Fluorolite Plastics",\
 &ensp;"education": "CS & Env Sci @ Northeastern",\
