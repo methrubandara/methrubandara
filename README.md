@@ -1,7 +1,7 @@
 ## Methru Bandara 👋
 
 {\
-&ensp;"current": "Full Stack SWE Co-op @ MORSE Corp",
+&ensp;"current": "Full Stack SWE Co-op @ MORSE Corp", \
 &ensp;"building": "Spendvia",\
 &ensp;"previously": "Web Developer @ Fluorolite Plastics",\
 &ensp;"education": "CS & Env Sci @ Northeastern",\
